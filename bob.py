@@ -108,3 +108,5 @@ print(f"upgrade {computer1}")
 
 
 print("Hello")
+
+print("Bye")
