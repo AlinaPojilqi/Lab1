@@ -103,7 +103,7 @@ computer1.upgrade_component('ram','32')
 print(f"upgrade {computer1}")
 
 
-
+print("cringe")
 
 print("ААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА")
 
