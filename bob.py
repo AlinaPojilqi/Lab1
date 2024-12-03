@@ -101,14 +101,3 @@ print(f"compliance with {computer1.id} parameters: {ComputerExtended.is_high_per
 print(f"ram + vram for Computer1: {computer1.total_memory}GB")
 computer1.upgrade_component('ram','32')
 print(f"upgrade {computer1}")
-
-
-print("cringe")
-
-
-print("Hello")
-
-print("Bye")
-
-print("ESHKERE")
-print ("no no no mr fish")
