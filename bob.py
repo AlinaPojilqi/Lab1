@@ -6,7 +6,8 @@ def performance_log(func):
         result = func(*args, **kwargs)
         print(f'{datetime.now().strftime("[%d.%m.%Y %H:%M:%S]")} Обновлён параметр {args[1]} на значение {args[2]}')
         return result
-    return wrapper
+    return wrapper
+
 class ComputerExtended:
     __slots__ = ['_cpu', '_ram', '_storage', '_gpu', '_vram', 'id']
     computer_count = 0
